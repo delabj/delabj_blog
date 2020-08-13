@@ -5,7 +5,7 @@ description: |
 author:
   - name: Joshua de la Bruere
     url: www.delabj.com
-date: 08-13-2020
+date: 05-04-2018
 output:
   distill::distill_article:
     self_contained: false
@@ -80,3 +80,10 @@ The Borda count is a ranked voting system. Here the voters rank each candidates 
 Finally, I talked about instant run off voting, which is another ranked vote system. This one however is iterative. Each voter ranks the candidates and then votes are tallied. Only the top candidate is considered. Then if a candidate has the majority, they win. Otherwise the losing candidate (or more depending on set up) is dropped. Those that voted for them are then counted with their second choice. Then votes are tallied again. This repeats until a candidate has the majority. 
 
 I looked at each system and compared it with the criteria. Then I compared the number of criteria that they passed. Which I would like to remind you isn't the only important thing as no system outside of a dictatorship can ever meet all the criteria. However it is a nice starting point for examination. I examined some of the other costs of these systems would be and made my conclusion. 
+
+![Table Comparing Methods](img/chart.PNG)
+
+Personally I'm a huge fan of the Borda Count, but in fitting with the framework we had established I concluded my presentation suggesting Instant runoff voting as it fit with both frameworks quite well and thus would be easier to  implement. 
+
+I was very happy with my presentation and how it was received, I was also very excited by the class. 
+If you would like to see my presentation, a copy of the slides are available [here.](https://drive.google.com/file/d/1T3bZgmyGBJLNC9dM_QTCJSTxkqPWT-N_/view?usp=sharing)

@@ -1,0 +1,29 @@
+---
+title: "Why '-' Matters"
+description: |
+  Thoughts and musings on a funeral of a close friend
+author:
+  - name: Joshua de la Bruere
+    url: www.delabj.com
+date: 11-28-2015
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+A few weekends ago, one of my childhood friends was hit by a car and died. He was Twenty. And bam. One person dead, because someone was speeding, and wasn’t looking. It’s saddening to think about as well as humbling. In an instant any of us could just be gone. It’s a surreal experience finding out that someone your age died.
+
+The next weekend was his funeral, and when I saw the tombstone, the memorial for the ages of one of my best friends, I noticed the date. 1995-2015. That’s it, that was his life. And we often focus on the end points, his birth and his death, from which, we can find the length of the life. However, We often neglect to notice the “-”. That little hyphen means a lot, it represents twenty years of happiness, pain, suffering, learning, setback, and successes. and some how, all that merits is a “-”.
+
+It’s strange to me, that so much can be represented by a little dash. I suppose it’s like ∞, it can have a lot of different meaning. It’s a weird concept to think of, but different ∞, can be different sizes. as x+4 approaches ∞, we say it’s infinite. But as x^4 approaches ∞ it also considered infinite, except it’s bigger. it reaches infinity faster. If you want to try this, just set one equation on top of the other, and then take limits and use l'hopital’s rule.  All that is probably to technical for the point I’m trying to make.
+
+What I’m trying to say, I suppose, is that when I was wandering around the cemetery,  was that I realized, that these people who’s graves I was looking, were more than the life span. People are more than a start and an end; They are the middle. People who have lived and died are the experiences in between those two end points. Some people have a short distances, but they run a fairly straight path and simply end too soon. Others take their two endpoints and do all sorts of interesting twists and turns.
+
+Many live like common equations in slope intercept form. y=mx+b. Starting higher depending on their b or their home life and the socioeconomic background of their parents. their slope, m isn’t all that impressive. simply glide along climbing the ladder to mediocrity with a slope of one or two.  Some take a turn for the worse, and are negative, their lives taking sharp turns for the words. Finally, some will rise seemingly unstoppable. Most people, however are more than a simple y=mx+b equation. they’re lives have ups and downs they have twists and turns, and somehow when we look for a equation to describe them, we only pick two points to fit the line to. Start and finish. so the approximation of the complicated fascinating life line is simply a dash. So much detail lost in the approximation, left behind in the derivatives of our lives.
+
+Perhaps there isn’t really a point to talking like this, I’m not always sure where my brain will go, but it needs to speak, to sort, to make sense in this world. And today, I made sense of life and death by comparing it to mathematical models.
+

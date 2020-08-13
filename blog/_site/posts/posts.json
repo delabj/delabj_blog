@@ -1,0 +1,98 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Brew Air, Not Beer",
+    "description": "Welcome to My new blog, Brew Air, Not Beer. Please be patient as old posts are brought over to the new blog.",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2020-08-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-13T11:06:48-05:00",
+    "input_file": "welcome.utf8.md"
+  },
+  {
+    "path": "posts/2020-08-13-election-systems-rules-of-the-game/",
+    "title": "Election Systems: Rules of the Game",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2020-08-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-13T11:33:09-05:00",
+    "input_file": "election-systems-rules-of-the-game.utf8.md"
+  },
+  {
+    "path": "posts/2020-08-13-ubi-presentation/",
+    "title": "UBI Presentation",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2017-12-13",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-13T11:08:41-05:00",
+    "input_file": "ubi-presentation.utf8.md"
+  },
+  {
+    "path": "posts/2020-08-13-hard-unknots/",
+    "title": "Hard Unknots",
+    "description": "Summary of my semester project in a Knot Theory class",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2017-05-01",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-13T10:58:38-05:00",
+    "input_file": "hard-unknots.utf8.md"
+  },
+  {
+    "path": "posts/2020-08-13-lights-out/",
+    "title": "Lights Out",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2017-01-17",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-13T10:50:26-05:00",
+    "input_file": "lights-out.utf8.md"
+  },
+  {
+    "path": "posts/2020-08-13-why-matters/",
+    "title": "Why '-' Matters",
+    "description": "Thoughts and musings on a funeral of a close friend",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2015-11-28",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-13T10:38:22-05:00",
+    "input_file": "why-matters.utf8.md"
+  }
+]

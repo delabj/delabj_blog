@@ -1,0 +1,24 @@
+---
+title: "UBI Presentation"
+description: |
+  A breif post about the semster project for my Anaylzing politics class, presenting a proposal for a UBI study
+author:
+  - name: Joshua de la Bruere
+    url: www.delabj.com
+date: 12-13-2017
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+In my analyzing politics class, I was assigned to do a project dealing with Universal Basic Income. The purpose was to gather information from previous studies and to design and propose a new study from a board of individuals who would be funding this study. We then actually gave this presentation to a committee from the political science department as well as our peers. We had to answer questions about our design and hypotheses.
+
+The team I worked with had quite varied political views, ranging from libertarian to communist. Which while this may seem like a rocky place to start we were able to set aside these differences and find common ground, even finding ways to avoid our biases when doing our parts of the research. I believe that our project was more sound because of our differences in belief as we were only able to present on what we could test rather than what our particular ideologies dictate. 
+
+As our project was testable we left all political discussion out and began by doing some basic research on UBI. As it turns out there are many different kinds of basic income schemes and we all had slightly different ideas as what it might entail. We had though our limited exposure to the concept combined two different schemes in our heads: Universal Basic Income and Minimum Guaranteed Income. UBI is where every citizen is given a designated amount of money every year. The other similar scheme of MGI is where a minimum level of income is decided for each citizen, when a citizen makes more than that amount their income is not supplemented. If they don't reach that threshold they are given income make up the difference.  This is different from a negative income tax in a few ways as well. We decided to focus on solely UBI. We settled on making some hypotheses about what UBI might have in a few areas of citizens life. We then looked for potential measures that we could use to see if UBI improved peoples lives meaningfully. We designed a study that would last 25 years where we would survey twice a year, in which we gave 50% of our participants a set amount per year. We would then track and make conclusions with this data as we received. The other 50% were control. 
+
+I won't get to in depth in this post, but a link to our presentation is [here](https://drive.google.com/open?id=1359OY_FdRuNMQGczI1j6ML26SmNlA7OT). I was very proud of the work we did and would love for you to check it out. 

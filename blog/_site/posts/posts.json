@@ -16,6 +16,22 @@
     "input_file": "welcome.utf8.md"
   },
   {
+    "path": "posts/2020-08-14-ggcyberpunk-meme-driven-development/",
+    "title": "ggCyberPunk, Reddit Driven Development",
+    "description": "An introduction and explination of my new package ggCyberPunk",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2020-04-12",
+    "categories": [],
+    "preview": "posts/2020-08-14-ggcyberpunk-meme-driven-development/ggcyberpunk-meme-driven-development_files/figure-html5/unnamed-chunk-2-1.png",
+    "last_modified": "2020-08-14T09:57:34-05:00",
+    "input_file": "ggcyberpunk-meme-driven-development.utf8.md"
+  },
+  {
     "path": "posts/2020-08-13-election-systems-rules-of-the-game/",
     "title": "Election Systems: Rules of the Game",
     "description": "A short description of the post.",

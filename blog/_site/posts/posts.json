@@ -16,6 +16,22 @@
     "input_file": "welcome.utf8.md"
   },
   {
+    "path": "posts/2020-08-14-africa-country-bins-remixing-packages/",
+    "title": "Africa Country Bins: Remixing Packages",
+    "description": "Remixing a package for a new audience",
+    "author": [
+      {
+        "name": "Joshua de la Bruere",
+        "url": "www.delabj.com"
+      }
+    ],
+    "date": "2020-07-14",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2020-08-14T14:35:20-05:00",
+    "input_file": "africa-country-bins-remixing-packages.utf8.md"
+  },
+  {
     "path": "posts/2020-08-14-ggcyberpunk-meme-driven-development/",
     "title": "ggCyberPunk, Reddit Driven Development",
     "description": "An introduction and explination of my new package ggCyberPunk",

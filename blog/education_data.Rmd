@@ -1,0 +1,31 @@
+---
+title: "Tidy Data in Education"
+author: "Joshua de la Bruere"
+date: "10/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## What is Tidy Data
+
+When it comes to data analysis the idea of "Tidy Data" comes up fairly often. It has a few other names like model matrix, or the Boyce-Codd 3rd normal form. Getting data into a Tidy format is often the first step in preforming analysis in an efficent manner. 
+
+The main principles of "Tidy Data" are that each row is an observation and each column is a variable. 
+
+Consider this example of data for analysiing if a student is at-risk. 
+```{r}
+tibble::tribble(
+~student_id, ~last_name, ~first_name, ~grade, ~absences,  ~missing_assignments,
+"170100", "Kirk", "James", "09", 6, 10,
+"163405", "Skywalker", "Luke","12", 2, 0,
+"122300", "Watson", "John", "10", 0, 1 ,
+"103064", "Frye", "Kaylee","11", 5, 3,
+"110110", "Pond", "Amy", "12", 9, 2
+
+) %>% gt()
+```
+Each column represents a variable that is consistant throughout. Student ID is always the student's ID, the names are alaways the names, and absences is only ever absences. 
+
